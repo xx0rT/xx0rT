@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Troxx]! 👋
 
 I'm a software developer with experience in **CSS**, **HTML**, **JavaScript**, **Node.js**, **PHP**, **Python**, and **Lua**. I'm passionate about building applications that are both functional and aesthetically pleasing.
 
