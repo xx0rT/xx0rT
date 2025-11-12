@@ -1,6 +1,6 @@
 # Tr0xx – Fullstack Web Developer
 
-[![Website](https://img.shields.io/website?label=Tr0xx%20Website&url=https%3A%2F%2Fxx0rt.github.io%2FTr0xx%2F)](https://xx0rt.github.io/Tr0xx/)
+[![Website](https://img.shields.io/website?label=Tr0xx%20Website&url=https%3A%2F%2Fxx0rt.github.io%2FTr0xx%2F)](https://bit.ly/4rdceGz)
 [![GitHub](https://img.shields.io/github/followers/xx0rt?label=Follow%20me&style=social)](https://github.com/xx0rt)
 
 Klikni sem → [**Tr0xx Web**](https://xx0rt.github.io/Tr0xx/)
